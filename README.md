@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Muhammad Agis</h1>
 <h3 align="center">Mekatronics Graduate, Crafting the Future with Code.</h3>
 
-- 💬 Ask me about ****
+- 💬 Ask me about **coding, robots, or surviving a bootcamp – I’m still learning, but excited!**
 
 - 📫 How to reach me **agis7766@gmail.com**
 
