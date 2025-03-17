@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **agis7766@gmail.com**
 
-- ⚡ Fun fact **I think I'm ready to join your company**
+- ⚡ Fun fact **I think I'm ready**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
